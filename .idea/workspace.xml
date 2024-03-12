@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff6c9cab-f7cc-4fb4-9cc5-590dfc9b2176" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/environments/.env.develop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/environments/.env.production" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2N7TaKjg6VALnlCNEAWGgdSn8qK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/var/www/loto",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "/home/antoine/.nvm/versions/node/v19.1.0/bin/node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.nodejs",
+    "ts.external.directory.path": "/var/www/scoreboard/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/public/cups" />
+      <recent name="$PROJECT_DIR$/src/component/scoreViewer" />
+      <recent name="$PROJECT_DIR$/src/request" />
+      <recent name="$PROJECT_DIR$/src/_types" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/component" />
+      <recent name="$PROJECT_DIR$/src/component/scoreViewer/scoreBoardTournament" />
+      <recent name="$PROJECT_DIR$/public/cups" />
+      <recent name="$PROJECT_DIR$/src/component/scoreViewer" />
+      <recent name="$PROJECT_DIR$/src/component/ManagementContest" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff6c9cab-f7cc-4fb4-9cc5-590dfc9b2176" name="Changes" comment="" />
+      <created>1679014183059</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679014183059</updated>
+      <workItem from="1679014184133" duration="159936000" />
+      <workItem from="1679526985932" duration="13696000" />
+      <workItem from="1680304966989" duration="1113000" />
+      <workItem from="1680522732624" duration="94523000" />
+      <workItem from="1681085712179" duration="945000" />
+      <workItem from="1681821006080" duration="45476000" />
+      <workItem from="1682424634934" duration="52298000" />
+      <workItem from="1682601250465" duration="34652000" />
+      <workItem from="1682921689314" duration="710000" />
+      <workItem from="1683029873174" duration="32000" />
+      <workItem from="1683029928361" duration="15000" />
+      <workItem from="1683208735891" duration="1314000" />
+      <workItem from="1683324962176" duration="1387000" />
+      <workItem from="1683326641091" duration="2908000" />
+      <workItem from="1685100248843" duration="108000" />
+      <workItem from="1689420280484" duration="651000" />
+      <workItem from="1699359948966" duration="689000" />
+      <workItem from="1701126401526" duration="32000" />
+      <workItem from="1702823299572" duration="953000" />
+      <workItem from="1709741036270" duration="3457000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
