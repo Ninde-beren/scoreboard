@@ -11,7 +11,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - `npm run format` / `npm run format:write` — Prettier check/write.
 - `npm test` — Vitest single run. `npm run test:watch` for watch mode. Run a single test file: `npx vitest run path/to/file.test.tsx`. Filter by name: `npx vitest run -t "pattern"`.
 
-The repository was bootstrapped from CRA but has been migrated to Vite + Vitest. The `README.md` still references the old CRA scripts and is stale — trust `package.json` instead. `push.sh` references CRA-era scripts (`build:dev`, `build:prod`) that no longer exist in `package.json`; treat it as not currently functional.
+The repository was bootstrapped from CRA but has been migrated to Vite + Vitest. `push.sh` references CRA-era scripts (`build:dev`, `build:prod`) that no longer exist in `package.json`; treat it as not currently functional.
 
 ## Architecture
 
