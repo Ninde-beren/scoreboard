@@ -5,7 +5,7 @@ import {
 } from '@features/contest-management/domain/model/contestView.model';
 
 export const buildManagementContestVM = (view: ViewState) => {
-  const [mode, setupTeams, tournamentMode] = view;
+  const [mode, setupTeams, , tournamentMode] = view;
   const canPool = !setupTeams;
   const canTournament = tournamentMode;
 
