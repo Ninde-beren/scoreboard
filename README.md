@@ -179,3 +179,15 @@ d'utilisable, alors que `contestSync` et l'en-tête en dépendent. **Ne pas le r
   composants React qui écrivent directement en base : leur logique n'est pas isolée, donc
   pas couverte par les tests.
 - Le bundle dépasse 500 ko : aucun découpage en chunks n'est configuré.
+
+---
+
+## Licence
+
+[PolyForm Noncommercial 1.0.0](LICENSE.md) — usage, modification et redistribution libres
+**pour tout usage non commercial**. Un club qui s'en sert pour arbitrer ses concours est
+dans son droit ; la revendre, l'exploiter comme service payant ou l'intégrer à une offre
+commerciale demande une autorisation écrite.
+
+GitHub ne reconnaît pas cette licence dans son détecteur automatique : elle n'apparaîtra pas
+dans le bandeau du dépôt, seul le fichier `LICENSE.md` fait foi.
