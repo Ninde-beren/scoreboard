@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .logo {
+    animation: logo-spin infinite 2s linear;
+  }
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotateY(0deg);
+  }
+  to {
+    transform: rotateY(360deg);
+  }
+}
+
+.table > div > div > div:nth-of-type(odd) {
+  background-color: #13195a;
+}
+
+#list-team > div:nth-of-type(5n) {
+  margin-right: 11%;
+}
+
+#list-team > div:nth-of-type(5n + 1) {
+  margin-left: inherit;
+}
+
+.cup {
+  width: 30%;
+}
+
+.cup2 {
+  width: 20%;
+}
+
+.cupView {
+  width: 60%;
+}
+
+.cupView2 {
+  width: 40%;
+}
+
+.cupView3 {
+  width: 10%;
+}
